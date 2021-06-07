@@ -4,7 +4,7 @@ export default class SingleRoom extends Component {
     render() {
         return (
             <div>
-                <h1>single rooms</h1>
+                
             </div>
         )
     }
